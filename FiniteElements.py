@@ -18,7 +18,7 @@ import numpy as np
 import unittest
 import sympy
 
-print('#################################################################')
+print('####################################hi#############################')
 print('Congratulations, <your name>, the Finite Element code is running successfully!')
 print('#################################################################')
 
